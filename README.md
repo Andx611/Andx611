@@ -1,12 +1,14 @@
 ## Hi there 👋
 
+You can call me Andrea
+
 - I am a undergraduate student majored in financial mathematics
 - I am corrently learning coding
 - I would like to create something fun🤩 
 - 📫 How to reach me: nickyxia9@gmail.com / 2125027721@qq.com
 
 ---
-Written according to the suggestions provided by GitHub, feel feel to contact me and communicate!
+Written according to the suggestions provided by GitHub. Feel free to contact me and communicate!
 
 <!--
 **Andx611/Andx611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
